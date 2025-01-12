@@ -1,14 +1,9 @@
 # OpenBoard
-| Project | Link |
-| ------ | ------ |
-| website link |  https://boyceyboycey.github.io/OpenBoard/
-
-
 ---
 ## `Tech Stack used`
 - Html
 - Css
-- javascript
+- Javascript
 ---
 ## `Features`
 - UI for user interaction.
